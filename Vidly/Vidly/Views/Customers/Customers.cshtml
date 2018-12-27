@@ -1,0 +1,13 @@
+﻿@model Vidly.ViewModels.CustomersViewModel
+
+@if (Model.Customers.Count > 0)
+{
+    foreach(var customer in Model.Customers)
+    {
+        <a href="/Customers/@customer.ID">@customer.Name</a>
+    }
+}
+else
+{
+    <h3>We currently have no customers.</h3>
+}
