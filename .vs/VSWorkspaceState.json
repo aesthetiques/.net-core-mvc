@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Vidly",
+    "\\Vidly\\Vidly\\Controllers",
+    "\\Vidly\\Vidly\\Models",
+    "\\Vidly\\Vidly\\Views",
+    "\\Vidly\\Vidly\\Views\\Movies"
   ],
+  "SelectedNode": "\\Vidly\\Vidly",
   "PreviewInSolutionExplorer": false
 }
